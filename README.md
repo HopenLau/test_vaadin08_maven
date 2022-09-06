@@ -1,0 +1,1 @@
+# test_vaadin08_maven
